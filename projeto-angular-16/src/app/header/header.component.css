@@ -23,9 +23,11 @@
 .ekart--bottom--bar{
     display: flex;
 }
+
 .ekart--search-bar{
     padding: 0 3vh;
 }
+
 .ekart-search-box{
     width: 170px;
     height: 33px;
